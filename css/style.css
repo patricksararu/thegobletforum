@@ -1,0 +1,24 @@
+.banner {
+    background-color: #552200;
+    color: #FFCD00;
+    margin-top: 75px;
+    padding: 100px 0;
+}
+
+#goblethead {
+    height: 200px
+}
+
+#name {
+    color: #552200;
+    font-size: 100px;
+    text-align: center;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+.center {
+    text-align: center;
+}
